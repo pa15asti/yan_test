@@ -1,2 +1,1 @@
-# yan_test
-first git repo
+print("first git repo")
